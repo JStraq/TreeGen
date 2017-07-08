@@ -8,6 +8,7 @@ Created on Fri Jul  7 00:52:37 2017
 import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox as tkm
+from tkinter import filedialog
 import numpy as np
 #import matplotlib
 #matplotlib.use("TkAgg")
